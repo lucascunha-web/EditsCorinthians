@@ -2,7 +2,7 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/Corinthians_simbolo.png" alt="Logo do Corinthians" width="150" />
 
-  # 🦅 Elenco do Timão — Edit Edition ⚽
+  # 🦅 Elenco do Timão — Edit ⚽
 
   **Um projeto divertido feito por fãs para a Fiel Torcida!**
 
