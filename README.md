@@ -5,7 +5,8 @@
   # 🦅 Elenco do Timão — Edit ⚽
 
   **Um projeto divertido feito por fãs para a Fiel Torcida!**
-    [![Acessar Projeto](https://img.shields.io/badge/🚀_Acessar_Site_ao_Vivo-181717?style=for-the-badge&logo=github&logoColor=white)](https://lucascunha-web.github.io/EditsCorinthians/)
+
+   [![Acessar Projeto](https://img.shields.io/badge/🚀_Acessar_Site_ao_Vivo-181717?style=for-the-badge&logo=github&logoColor=white)](https://lucascunha-web.github.io/EditsCorinthians/)
 
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
