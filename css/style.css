@@ -81,7 +81,7 @@ header {
     margin-top: 4px;
 }
 
-/* --- MENU DE NAVEGAÇÃO --- */
+/* --- CARD DOS JOGADORES --- */
 #opcoes1 {
     background-color: rgba(255, 255, 255, 0.02);
     width: 100%;
@@ -152,7 +152,6 @@ main {
     flex-wrap: wrap;
 }
 
-/* --- CARDS DOS JOGADORES --- */
 .card {
     background: var(--bg-card);
     display: flex;
@@ -193,4 +192,10 @@ main {
     color: #e4e4e7;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
 }
